@@ -1,7 +1,5 @@
-package me.vanburgh.test;
+package me.vanburgh;
 
-import me.vanburgh.BikeApi;
-import me.vanburgh.BikePoint;
 import org.junit.Test;
 
 import java.util.List;

@@ -1,7 +1,6 @@
-package me.vanburgh.test;
+package me.vanburgh;
 
 import junit.framework.Assert;
-import me.vanburgh.TflClient;
 import org.junit.Test;
 
 /**
