@@ -1,6 +1,10 @@
+# We can use container-based build infrastructure
 sudo: false
+
+# Woo - Java!
 language: java
 
+# Test for backwards compatibility with JDK7
 jdk:
   - oraclejdk8
   - oraclejdk7
